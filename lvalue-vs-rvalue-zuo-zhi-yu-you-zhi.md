@@ -175,7 +175,7 @@ b = std::move(tmp);
 
 下面的图可能会让你更好理解他们的关系，以及为什么我在前面花费了大量篇幅讲解**表达式和左值的关系**
 
-****![](../.gitbook/assets/image.png)****
+****![](.gitbook/assets/image.png)****
 
 另外，为了让你更深刻理解，这里节选翻译一段[Mohan](https://stackoverflow.com/a/38559710/1433373) 的备忘录，他是C++早期标准的起草人之一
 
