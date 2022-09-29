@@ -27,7 +27,7 @@ int main() {
 
 如果你觉得const1的这种情况不好理解的话，请看上一小节最后部分中，[Mohan](https://stackoverflow.com/a/38559710/1433373)提到的例子，如果你还是不太理解的话，记住这种写法已经逐渐过时了即可
 
-const2意味着形参是一个只能初始化一次后无法再被重新定位的定位符，也就是说，实参可以是non-const型变量，关于const2我们还会展开来讲，参见下文
+const2意味着形参是一个只能初始化一次后无法再被重新定位的定位符，也就是说，实参可以是non-const型变量，关于const2我们后面的小节还会展开来讲，并提出多角度的观点同时附上足够有支持力度的佐证，我一共会描述四种情况，以扩展原书中的单一情况
 
 const3意味着函数内部的所有操作只会对当前函数栈帧空间上的内容进行修改，而不会修改任何外部内容，这个是一个编译时的检查和保证，而非运行时的，所以如果你在编译结束后进行patch，也仍然是可以正常运行的（除非把主要逻辑破坏了），但是这个运行结果肯定就和预期的不一样了
 
@@ -35,6 +35,6 @@ const3意味着函数内部的所有操作只会对当前函数栈帧空间上�
 
 
 
-
-
 {% embed url="https://stackoverflow.com/questions/3247285/const-int-int-const" %}
+
+{% embed url="https://stackoverflow.com/questions/117293/use-of-const-for-function-parameters" %}
