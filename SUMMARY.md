@@ -15,3 +15,4 @@
 * [到底什么是封装：操作类实例的函数永远都应当被定义为成员函数吗?](main/dao-di-shi-mo-shi-feng-zhuang-cao-zuo-lei-shi-li-de-han-shu-yong-yuan-du-ying-dang-bei-ding-yi-wei-c.md)
 * [正确理解和使用inline关键字](main/zheng-que-li-jie-he-shi-yong-inline-guan-jian-zi.md)
 * [如何写一个不会抛出异常的SWAP函数](<main/implement a non-except swap function.md>)
+* [Cross-DLLs Problem](main/cross-dlls-problem.md)
