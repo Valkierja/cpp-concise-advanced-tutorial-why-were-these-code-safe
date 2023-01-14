@@ -16,3 +16,4 @@
 * [正确理解和使用inline关键字](main/zheng-que-li-jie-he-shi-yong-inline-guan-jian-zi.md)
 * [如何写一个不会抛出异常的SWAP函数](<main/implement a non-except swap function.md>)
 * [Cross-DLLs Problem](main/cross-dlls-problem.md)
+* [安全且高效](main/an-quan-qie-gao-xiao.md)
