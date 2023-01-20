@@ -2,6 +2,8 @@
 
 写了一点 但是看到了这篇 感觉不可能写的比po主好，故直接贴上
 
+[https://zhuanlan.zhihu.com/p/50816420](https://zhuanlan.zhihu.com/p/50816420)
+
 另附评论区一句
 
 Q：请问完美转发的应用场景是啥？
