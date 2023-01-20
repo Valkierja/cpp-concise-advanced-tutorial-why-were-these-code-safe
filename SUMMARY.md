@@ -17,3 +17,4 @@
 * [如何写一个不会抛出异常的SWAP函数](<main/implement a non-except swap function.md>)
 * [Cross-DLLs Problem](main/cross-dlls-problem.md)
 * [最重要的章节: 什么是安全且高效](main/zui-zhong-yao-de-zhang-jie-shi-mo-shi-an-quan-qie-gao-xiao.md)
+* [实现委托的技术细节：引用折叠、万能引用和完美转发](main/shi-xian-wei-tuo-de-ji-shu-xi-jie-yin-yong-zhe-die-wan-neng-yin-yong-he-wan-mei-zhuan-fa.md)
