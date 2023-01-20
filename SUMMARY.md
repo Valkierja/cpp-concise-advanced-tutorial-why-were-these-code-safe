@@ -20,3 +20,4 @@
 * [实现委托的技术细节：引用折叠、万能引用和完美转发](main/shi-xian-wei-tuo-de-ji-shu-xi-jie-yin-yong-zhe-die-wan-neng-yin-yong-he-wan-mei-zhuan-fa.md)
 * [在编写模板时，class关键字和typename关键字有区别吗？](main/zai-bian-xie-mo-ban-shi-class-guan-jian-zi-he-typename-guan-jian-zi-you-qu-bie-ma.md)
 * [如何在上溢、下溢和回绕发生前检测并避免](main/ru-he-zai-shang-yi-xia-yi-he-hui-rao-fa-sheng-qian-jian-ce-bing-bi-mian.md)
+* [从人的角度考虑，继承是一个安全的优秀实现吗？](main/cong-ren-de-jiao-du-kao-lv-ji-cheng-shi-yi-ge-an-quan-de-you-xiu-shi-xian-ma.md)
