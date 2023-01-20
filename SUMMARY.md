@@ -19,3 +19,4 @@
 * [最重要的章节: 什么是安全且高效](main/zui-zhong-yao-de-zhang-jie-shi-mo-shi-an-quan-qie-gao-xiao.md)
 * [实现委托的技术细节：引用折叠、万能引用和完美转发](main/shi-xian-wei-tuo-de-ji-shu-xi-jie-yin-yong-zhe-die-wan-neng-yin-yong-he-wan-mei-zhuan-fa.md)
 * [在编写模板时，class关键字和typename关键字有区别吗？](main/zai-bian-xie-mo-ban-shi-class-guan-jian-zi-he-typename-guan-jian-zi-you-qu-bie-ma.md)
+* [如何在上溢、下溢和回绕发生前检测并避免](main/ru-he-zai-shang-yi-xia-yi-he-hui-rao-fa-sheng-qian-jian-ce-bing-bi-mian.md)
