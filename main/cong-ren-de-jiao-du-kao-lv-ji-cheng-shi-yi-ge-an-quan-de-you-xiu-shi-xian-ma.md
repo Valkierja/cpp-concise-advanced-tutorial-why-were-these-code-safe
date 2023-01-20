@@ -26,3 +26,9 @@
 
 {% embed url="https://zh.cppreference.com/w/cpp/language/dynamic_cast" %}
 
+{% embed url="https://stackoverflow.com/questions/60000760/best-practice-for-c-inheritance" %}
+
+{% embed url="https://stackoverflow.com/questions/22051876/am-i-abusing-inheritance-here-whats-a-best-practice-alternative-pattern" %}
+
+
+
