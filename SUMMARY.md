@@ -12,7 +12,7 @@
 ## 正文部分 <a href="#main" id="main"></a>
 
 * [正文部分的前言](main/zheng-wen-bu-fen-de-qian-yan.md)
-* [到底什么是封装：操作类实例的函数永远都应当被定义为成员函数吗?](main/dao-di-shi-mo-shi-feng-zhuang-cao-zuo-lei-shi-li-de-han-shu-yong-yuan-du-ying-dang-bei-ding-yi-wei-c.md)
+* [到底什么是封装：类方法都应当被定义为成员函数吗?](main/dao-di-shi-mo-shi-feng-zhuang-lei-fang-fa-du-ying-dang-bei-ding-yi-wei-cheng-yuan-han-shu-ma.md)
 * [正确理解和使用inline关键字](main/zheng-que-li-jie-he-shi-yong-inline-guan-jian-zi.md)
 * [如何写一个不会抛出异常的SWAP函数](<main/implement a non-except swap function.md>)
 * [Cross-DLLs Problem](main/cross-dlls-problem.md)
