@@ -105,9 +105,9 @@ Log_Recursive:
 
 
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 还有一条, 但是找不到了, 大致的意思就是线程控制的相关函数就不能返回值, 而应该返回引用, 因为复制值是无意义的, 并不会增加线程数量
 

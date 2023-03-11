@@ -87,7 +87,7 @@ myClass& operator+(myClass& left, myClass& right){//错误实现, 情况一
 
 "幸运的是", 这次可以编译通过了, 似乎结果也很正确
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 但还是一样的, 我们正在尝试把一个栈上的对象返回其引用
 
