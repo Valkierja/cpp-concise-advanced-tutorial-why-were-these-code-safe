@@ -22,3 +22,4 @@
 * [如何在上溢、下溢和回绕发生前检测并避免](main/ru-he-zai-shang-yi-xia-yi-he-hui-rao-fa-sheng-qian-jian-ce-bing-bi-mian.md)
 * [从人的角度考虑，继承是一个安全的优秀实现吗？](main/cong-ren-de-jiao-du-kao-lv-ji-cheng-shi-yi-ge-an-quan-de-you-xiu-shi-xian-ma.md)
 * [杂谈与补充1](main/za-tan-yu-bu-chong-1.md)
+* [虚函数和虚表](main/xu-han-shu-he-xu-biao.md)
