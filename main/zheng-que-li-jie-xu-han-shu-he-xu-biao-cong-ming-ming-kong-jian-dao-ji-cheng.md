@@ -109,10 +109,69 @@ private这里有一个foo函数, 没有任何调用者
 
 这里要想继续讲下去的话, 我们需要先讲讲其他东西, 看下面这个例子
 
-```
+<pre><code><strong>class A {
+</strong>public:
+	virtual int func1() = 0;
+	virtual int func2() = 0;
+};
 
 
+
+class B:public A {
+public:
+	virtual int func2() {//注意
+		return 2;
+	}
+	virtual int func1() {
+		return 1;
+	}
+
+};
+
+
+class C :public B {
+public:
+	virtual int func1() {
+		return 3;
+	}
+	virtual int func2() {
+		return 4;
+	}
+};
+
+</code></pre>
+
+大家应该都知道, class的成员声明的时候, 声明顺序是实际反映在二进制文件当中的, 也就是说, 先声明了变量A 然后声明变量B 那么实际的PE文件中, 变量A会在变量B前面 而且二者是紧邻的
+
+函数也是类似的, 对于非虚函数来说, 大部分编译器的处理也是声明顺序就是入口之间相对偏移的顺序
+
+但是对于非虚函数来说, 这一点并不是强制性要求
+
+而对于虚函数来说, 这一点是强制要求, 而且是以根基类(最基础的那个基类)为准
+
+对于上面的代码来说,&#x20;
+
+class A 的虚表结构是0偏移处为func1, 4偏移处为func2
+
+class B 的虚表结构是0偏移处为func1, 4偏移处为func2
+
+class C 的虚表结构是0偏移处为func1, 4偏移处为func2
+
+对于下面的代码而言
+
 ```
+class A {
+public:
+	virtual int func2() = 0;
+	virtual int func1() = 0;
+	
+};
+//其他同上
+```
+
+class A  class B class C的虚表结构都是
+
+0偏移处为func2, 4偏移处为func1
 
 
 
