@@ -119,10 +119,10 @@ private这里有一个foo函数, 没有任何调用者
 
 class B:public A {
 public:
-	virtual int func2() {//注意
+	virtual int func2() { //注意
 		return 2;
 	}
-	virtual int func1() {
+	virtual int func1() { //注意
 		return 1;
 	}
 
@@ -177,9 +177,9 @@ class A  class B class C的虚表结构都是
 
 上面的内容中, 我一笔带过了一个核心思想, 我单拎出来再提一次:
 
-虚函数的本质是数据, 只不过这个数据(函数指针)指向了函数入口
+虚函数的本质是数据(而不是方法), 只不过这个数据(函数指针)指向了函数入口
 
-非虚函数的本质就是方法
+非虚函数的本质才是方法
 
 前面提到, 这种顺序的安排是虚函数的强制要求, 这是为什么?
 
