@@ -215,3 +215,19 @@ class A  class B class C的虚表结构都是
 
 ### 参考文档
 
+{% embed url="https://alschwalm.com/blog/static/2016/12/17/reversing-c-virtual-functions/" %}
+
+{% embed url="https://stackoverflow.com/questions/14648393/what-does-type-mean-for-vfptr" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/75172640" %}
+
+{% embed url="https://blog.csdn.net/yc461515457/article/details/52658589" %}
+
+{% embed url="https://www.zhihu.com/question/46592381" %}
+
+{% embed url="https://web.archive.org/web/20230311143249/https://leehao.me/C-%E8%99%9A%E5%87%BD%E6%95%B0%E8%A1%A8%E5%89%96%E6%9E%90/" %}
+
+
+
+
+
