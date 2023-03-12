@@ -94,7 +94,7 @@ int main()
 
 形象一点来说
 
-以C-like方式在C++的继承结构中, 向上移动是安全的(图源g4g)
+以C-like方式在C++的继承结构中, 向上移动是安全的(图源[g4g](https://www.geeksforgeeks.org/cpp-hierarchical-inheritance/))
 
 ![](<../.gitbook/assets/image (8).png>)
 
