@@ -23,3 +23,4 @@
 * [从人的角度考虑，继承是一个安全的优秀实现吗？](main/cong-ren-de-jiao-du-kao-lv-ji-cheng-shi-yi-ge-an-quan-de-you-xiu-shi-xian-ma.md)
 * [杂谈与补充1](main/za-tan-yu-bu-chong-1.md)
 * [正确理解虚函数和虚表: 从命名空间到继承](main/zheng-que-li-jie-xu-han-shu-he-xu-biao-cong-ming-ming-kong-jian-dao-ji-cheng.md)
+* [继承和dynamic\_cast](main/ji-cheng-he-dynamiccast.md)
