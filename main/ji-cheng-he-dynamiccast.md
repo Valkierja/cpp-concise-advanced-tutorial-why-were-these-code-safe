@@ -94,17 +94,19 @@ int main()
 
 形象一点来说
 
-以C-like方式在C++的继承结构中, 向下移动是安全的(图源g4g)
+以C-like方式在C++的继承结构中, 向上移动是安全的(图源g4g)
 
 ![](<../.gitbook/assets/image (8).png>)
 
-但是向上移动是不安全的
+但是向下移动是不安全的
 
-因为虚函数的工程含义是, 用继承树上的most delivered node的虚表中的函数实现, 代替基类的实现
-
-
+~~因为虚函数的工程含义是, 用继承树上的most delivered node的虚表中的函数实现, 代替基类的实现~~
 
 
+
+### 参考文档
+
+{% embed url="https://www.ibm.com/docs/en/zos/2.4.0?topic=expressions-dynamic-cast-operator-c-only" %}
 
 
 
