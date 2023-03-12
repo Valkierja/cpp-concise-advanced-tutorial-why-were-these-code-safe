@@ -91,7 +91,7 @@ myClass& operator+(myClass& left, myClass& right){//错误实现, 情况一
 
 但还是一样的, 我们正在尝试把一个栈上的对象返回其引用
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 可以看到这个对象被放在了ebp-0C8h这个位置 ,这里还是栈上
 
