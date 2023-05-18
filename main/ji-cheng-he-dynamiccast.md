@@ -108,7 +108,7 @@ int main()
 
 {% embed url="https://www.ibm.com/docs/en/zos/2.4.0?topic=expressions-dynamic-cast-operator-c-only" %}
 
-
+{% embed url="https://stackoverflow.com/questions/4644753/c-dynamic-cast-polymorphic-requirement-and-downcasting" %}
 
 
 
